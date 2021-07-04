@@ -9,7 +9,6 @@
             "email": "emilevanzijl@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {"like4more\\HelloWorld\\": "src/"}
     },
