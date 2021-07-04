@@ -1,0 +1,17 @@
+{
+    "name": "like4more/composer",
+    "description": "A composer package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "like4more",
+            "email": "emilevanzijl@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"like4more\\HelloWorld\\": "src/"}
+    },
+    "require": {}
+}
