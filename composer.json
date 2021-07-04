@@ -10,7 +10,7 @@
         }
     ],
     "autoload": {
-        "psr-4": {"like4more\\HelloWorld\\": "src/"}
+        "psr-4": {"Like4more\\": "src/"}
     },
     "require": {}
 }
